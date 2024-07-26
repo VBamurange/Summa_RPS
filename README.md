@@ -1,1 +1,0 @@
-# Summa_RPS
